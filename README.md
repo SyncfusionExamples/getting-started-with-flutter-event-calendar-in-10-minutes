@@ -2,7 +2,7 @@
 
 A quick-start project that helps you add Syncfusion Flutter Event Calendar widget to a Flutter app. In this example, you will learn how to change the calendar view and the first day of the week, set the initial display date, set the initial selected date of the calendar and schedule appointments, that is, events. This example shows how to create a recurring appointment and an all-day appointment in Syncfusion Flutter Event Calendar widget.
 
-Watch the video: Coming soon...
+Watch the video: https://www.syncfusion.com/tutorial-videos/flutter/calendar?title=getting-started-with-flutter-event-calendar-in-10-minutes
 
 Documentation: https://help.syncfusion.com/flutter/calendar/overview 
 
